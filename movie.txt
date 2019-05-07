@@ -1,0 +1,13 @@
+{
+  "title" : "Gattaca",
+  "release_year" : 1997,
+  "is_awesome" : true,
+  "won_oscar" : false,
+  "actors" : ["Loren Dean", "Uma Thurman", "Ethan Hawke"],
+  "budget" : null,
+  "credits" : {
+    "director" : "Andrew",
+    "composer" : "Michael",
+    "cinematographer" : "Slawomir"
+  }
+}
