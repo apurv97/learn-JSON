@@ -8,3 +8,5 @@ Strings<br>
 Objects<br>
 Numbers<br>
 Null<br>
+
+Also learning how to handle JSON in python.
